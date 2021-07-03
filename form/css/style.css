@@ -1,0 +1,26 @@
+body{
+	text-align: center;
+}
+
+.form{
+	padding-top: 15px;
+	padding-bottom: 10px;
+	padding-left: 5px;
+	padding-right: 7px;
+	border: 25px solid black;
+	margin: auto;
+	display: inline-block;
+	position: relative;
+	width: 400px;
+	background: #fffef7;
+    border-radius: 15px;
+}
+
+sub{
+		border-radius: 90px;
+
+}
+
+table, th, td {
+  border: 1px solid gold;
+ }s
